@@ -1,2 +1,4 @@
-# andrej_karpathy_AI
-Andrej Karpathy Zero to Hero course
+# Deep Learning Notes
+
+## Table of Contents
+1. Introduction
